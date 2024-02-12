@@ -1,7 +1,7 @@
 // Importamos los recursos que vamos a utilizar
 import React, { Fragment, useEffect, useState } from "react"; // React y sus recursos
 import styles from "@/styles/Home.module.css"; // Estilo CSS principal
-import Moneda from "@/componentes/Moneda"; // Componente guardado en otro archivo
+import Moneda from "@/views/components/Moneda"; // Componente guardado en otro archivo
 import {css} from "@emotion/react"; // Importamos la librería de Emotion CSS
 
 // Componente que se exporta por default
